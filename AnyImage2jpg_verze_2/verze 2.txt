@@ -1,0 +1,22 @@
+
+k cemu doslo v prechozi verzi je vydet na obrazku obrazku 1, stejny nazev a jina pripona udelala to ze po prevodu
+se stal ze dvou obrazku jeden a data z prvniho souboru tif se ztratila (prepsala)
+verze 2 se tyto duplicitni nazvy pokusi resit tak ze uklada nazvy souboru *.jpg ktere jiz byli pouzity pri konverzi
+a kontoluje aby se tento nazev jiz podruhe neopakoval, paklize by mel byt stejni tak pouzije priponu
+source souboru v nazvu souboru target aby se docililo odlisneho pojmenovani
+vse ukazuji obrazky 2-6
+
+
+
+
+
+tip pro hrave lidi aneb Volođo rozšroubuj toho Sinclaiera
+vytvorete si nekde novou praznou slozku a vni pravim tlacitkem mysi novy textovy soubor obr 1B
+takto vznikli soubor oznacte a dejte kopirovat (ctrl+c) obr 2B, potom dejte vlozit (Ctrl+c) obr 3B
+tento krok opakujte 5 krat vznikne 5 novych souboru z rozdilnymi nazvy cislovanymi vzestupne obr 4B
+smazte soubor ...(3).txt obr 5B a obr 6B
+nyni znovu kliknete na vlozit obr 7B, prave smazany soubor se obnovil ale ne pod cislem (6) 
+jak by se dalo ocekavat ale chybejicim cislem (3)
+naposledi kliknete na vlozit obr 8B, nini jiz byl vytvoren soubor ktery je o jednu vyssi nez posledni
+soubor cislo (5)...
+
