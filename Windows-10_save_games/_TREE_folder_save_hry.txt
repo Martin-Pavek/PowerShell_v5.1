@@ -1,7 +1,4 @@
-08.11.2023 
-12:00
-Folder PATH listing for volume Hdd
-Volume serial number is 0000006D 3A4E:C597
+
 C:\USERS\DELL\DOCUMENTS\ZALOHA\SAVE_HRY
 |   _TREE.bat
 |   _TREE_folder_save_hry.txt
