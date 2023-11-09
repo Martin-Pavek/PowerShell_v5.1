@@ -1,0 +1,14 @@
+
+verze 3 dela to ze vzestupne cisluje duplicini soubory, tak jak jsem to ukazoval minule na prikladu
+v pruzkumnikovy, nove pribyl parametr "-delete" ktery maze puvodny prevedene soubory a uklizi po sobe
+viz.obrazky
+
+tip.
+spuste napred program bez parametru "-delete" v adresari se pro kontrolu podivejte jaky je vysledek,
+jestli je vse v poradku, a pak ho spuste znovu i s parametrem, konverze se sice bude provadet 2x
+prepisou se pri ni puvodni prevedene soubory, coz nevadi ale zaroven po sobe pak uklidi a je to tutovka
+akorat to bude trvat trochu dele obr 1t az obr 5t
+
+
+PS: pozor na ruzne smajliky v nazvech, cinske znaky apod. jednou se mi to seklo
+ 
